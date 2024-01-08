@@ -1,0 +1,125 @@
+.header{
+    height:200px;
+    background-color: #1ff050;
+    border: 5px solid 	#670000;
+    font-size: 85px;
+    color: #670000;
+    text-align: center;
+    
+}
+.wrapper{
+    overflow: hidden;
+           
+                    /* box2 */
+
+}
+.contact{
+    width:60%;
+    height: 250px;
+    background-color: #008080;
+    float: left;
+    font-size: 100px;
+    color: #38e611;
+    text-align: center;
+    border: 3px solid red;
+    box-sizing: border-box;
+}
+.blog{
+    width:40%;
+    height: 250px;
+    background-color: #183A37;
+    float: right;
+    font-size: 80px;
+    text-align: center;
+    color: rgb(209, 4, 130);
+    border: 3px solid red;
+    box-sizing: border-box;
+}
+                /* 3Box */
+
+.box   {
+    width:33.33%;
+    height: 200px;
+    float: left;
+    
+}
+.one{
+    background-color: #19f2e7;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(2, 60, 110);
+    border: 3px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+.two{
+    background-color: #1c0120;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(81, 254, 7);
+    border: 3px solid rgb(252, 245, 245);
+    box-sizing: border-box;
+}
+.three{
+    background-color: #670000;
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    border: 3px solid rgb(2, 0, 0);
+    box-sizing: border-box;
+}
+
+.con{
+    width: 25%;
+    height: 150px;
+    float:left;
+
+}
+
+                /* 4Box start */
+.a{
+    background-color: rgb(41, 6, 6);
+    font-size: 100px;
+    color: aliceblue;
+    text-align: center;
+    /* box-sizing: border-box; */
+}
+
+.b{
+    background-color: rgb(0, 0, 0);
+    font-size: 100px;
+    color: rgb(81, 168, 14);
+    text-align: center;
+    box-sizing: border-box;
+    /* border: 5px dashed rgb(28, 141, 206); */
+}
+
+.c{
+    background-color: rgba(14, 114, 255, 0.697);
+    font-size: 100px;
+    color: rgb(227, 5, 5);
+    text-align: center;
+    /* border: 5px solid red; */
+    /* box-sizing: border-box; */
+}
+.d{
+    background-color: rgb(102, 115, 167);
+    font-size: 100px;
+    color: rgb(244, 98, 14);
+    text-align: center;
+    /* box-sizing: border-box; */
+}
+                /* Fotter Start */
+
+.fotter{
+    min-height:20px;
+    background-color: rgba(10, 2, 58, 0.855);
+    text-align: center;
+    font-size: 35px;
+    color: #1ff050;
+}
+
+                /* A tag start */
+a{
+    text-decoration: none;
+    color: #bde313;
+}
